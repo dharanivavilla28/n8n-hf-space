@@ -179,7 +179,7 @@ Return only valid JSON.
 * `youtube_n8n_video_uploaded.jpg` – Final upload confirmation
 
 ---
-
+PPT LINK: https://www.canva.com/design/DAGvlwgNsXQ/h2wBa4fPdpBfSu7mu7J-Tw/edit
 ## Conclusion
 
 This n8n workflow provides an end-to-end automated system to convert AI-generated ideas into ready-to-upload YouTube videos, maintaining a seamless integration between Sheets, AI prompts, video rendering, and publishing.
